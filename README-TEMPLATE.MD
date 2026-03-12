@@ -9,7 +9,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 En esta actividad desarrollarás un componente de Código QR utilizando Astro y Tailwind CSS, con el objetivo de poner en práctica tus conocimientos en la creación de componentes, uso de estilos y diseño responsivo.
 ### 🧩 Vista previa del proyecto
 
-![Vista previa del componente](../public/images/CapturaQR.png)
+![Vista previa del componente](../images/CapturaQR.png)
 
 ---
 
@@ -57,7 +57,7 @@ Aprendi a usar un poco mejor astro y taliwnd, pues pocas veces eh trabajado con 
 - **Nombre completo: José Enrique Navarro Salas**  
 - **Carrera: Tecnologias de la informacion y las comunicaciones**  
 - **Grupo: 11-12**  
-- **Correo institucional:23151233@aguascalientesl.tecnm.mx**  
+- **Correo institucional:23151233@aguascalientes.tecnm.mx**  
 
 ---
 
