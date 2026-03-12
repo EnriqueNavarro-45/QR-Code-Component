@@ -15,7 +15,7 @@ En esta actividad desarrollarás un componente de Código QR utilizando Astro y 
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio]
+- **Repositorio en GitHub:** [https://github.com/EnriqueNavarro-45/QR-Code-Component]
 - **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://)
 
 ---
