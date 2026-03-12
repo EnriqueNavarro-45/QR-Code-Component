@@ -9,7 +9,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 En esta actividad desarrollarás un componente de Código QR utilizando Astro y Tailwind CSS, con el objetivo de poner en práctica tus conocimientos en la creación de componentes, uso de estilos y diseño responsivo.
 ### 🧩 Vista previa del proyecto
 
-![Vista previa del componente](/images/Captura de pantalla 2026-03-10 102050.png)
+![Vista previa del componente](./public/images/CapturaQR.png)
 
 ---
 
@@ -34,7 +34,7 @@ Lista las herramientas y tecnologías que utilizaste en el proyecto. Por ejemplo
 ---
 
 ### 💡 Lo que aprendí
-Aprendi a usar un poco astro y taliwnd, pues es la primera vez que trabajo con ambas. 
+Aprendi a usar un poco mejor astro y taliwnd, pues pocas veces eh trabajado con ambas. 
 
 ### 🚀 Áreas de mejora
 
@@ -55,13 +55,15 @@ Aprendi a usar un poco astro y taliwnd, pues es la primera vez que trabajo con a
 ### 👩‍💻 Autor
 
 - **Nombre completo: José Enrique Navarro Salas**  
-- **Carrera:Tecnologias de la informacion y las comunicaciones**   
-- **Correo institucional:23151233@aguascalinetes.tecnm.mx**  
+- **Carrera: Tecnologias de la informacion y las comunicaciones**  
+- **Grupo: 11-12**  
+- **Correo institucional:23151233@aguascalientesl.tecnm.mx**  
 
 ---
 
 ### ✨ Reflexión final
 
-- ¿Qué fue lo más fácil o lo más difícil de realizar?  Lo mas facil fue crear el proyecto y lo mas dificil fue hacer que las imagenes cargaran
-- ¿Qué parte disfrutaste más del desarrollo?  Hacer que cargaran las imagenes.
-
+- ¿Qué fue lo más fácil o lo más difícil de realizar? Lo mas facil la estructura HTML. Al tener tan pocos elementos (un contenedor, una imagen, un título y un párrafo), la arquitectura se define en segundos y lo mas dificil es centrarlo.
+- ¿Qué parte disfrutaste más del desarrollo? Es un proyecto que se termina rápido y, gracias a Tailwind, ver cómo el diseño pasa de ser texto plano a una tarjeta elegante
+- ¿Qué conceptos nuevos aprendiste?  El uso de shadow-lg para separar el componente del fondo, dándole un aspecto de "objeto físico" sobre la superficie.
+- ¿Cómo aplicarías lo aprendido en proyectos futuros? Aplicaría el uso de diferentes pesos visuales (font-bold vs text-gray-500) para guiar el ojo del usuario, algo vital en cualquier interfaz profesional.
